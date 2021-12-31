@@ -1,0 +1,11 @@
+{
+    "ID":"7ae8a6ef-3d7b-4b83-a4c4-115077e85daf",
+    "ActionKeyword":"doc",
+    "Name":"Offline.Doc",
+    "Description":"Offline documentation, using dash docsets",
+    "Author":"Vihanga Pankaja",
+    "Version":"1.0.0",
+    "Language":"python",
+	"IcoPath":"Images\\app.png",
+    "ExecuteFileName":"Main.py"
+}

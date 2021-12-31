@@ -1,0 +1,12 @@
+{
+  "doc_paths": [
+    ".\\Docsets"
+  ],
+  "doc_search_install": 3,
+  "new_download_loc": 2,
+  "doc_open_method": "web",
+  "alias": {
+    "py": "Python_3",
+    "js": "JavaScript"
+  }
+}
